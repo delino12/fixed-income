@@ -14,3 +14,13 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+/*
+|------------------------------------
+| Calculating Bonds 
+|------------------------------------
+| This contain bonds controller 
+| Caculation method
+|
+*/
+Route::post('calculate/bonds/p-value', 'BondsCalculatorController@calculatePvalue');

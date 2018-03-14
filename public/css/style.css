@@ -13,18 +13,18 @@ body {
 	font-size:14px;
 	font-weight:300;
 	line-height:1.6em;
-	color:#999;
+	color:#000;
 	background-color:#fff;
 	overflow-x:hidden;
 }
 
 hi,h2,h3,h4,h5,h6 {
-	color:#333;
+	color:#000;
 	line-height:1.1em;
 }
 
 p {
-	color:#333;
+	color:#000;
 	font-size:13px;
 }
 a {
@@ -34,7 +34,7 @@ a {
     -webkit-transition: all 0.1s ease-in-out;
     -o-transition: all 0.1s ease-in-out;
     outline: none;
-	color:#333;
+	color:#000;
 }
 a:hover {
 	text-decoration: none;
@@ -62,11 +62,11 @@ a:hover {
 
 .text-center p {
 	margin-bottom:50px;
-	color:#333;
+	color:#000;
 }
 
 .btn-default {
-  color: #333;
+  color: #000;
   background-color: #fff;
   border-color: #fff;
   text-transform:uppercase;
@@ -94,7 +94,7 @@ a:hover {
 	padding-top:5px;
 	float: left;	
 	font-size: 30px;	
-	color:#333;		
+	color:#000;		
 }
 .navbar-brand h1 span {
 	color: #ED502E;
@@ -120,7 +120,7 @@ a:hover {
 }
 .nav-tabs > li > a {	
 	border-radius:0;
-	color:#333;
+	color:#000;
 	padding:30px;
 }
 
@@ -177,7 +177,7 @@ a:hover {
 ============================ */
 .features p {
 	margin-bottom:70px;
-	color:#333;
+	color:#000;
 }
 
 .main-feature {
@@ -193,7 +193,7 @@ a:hover {
 .main-feature .media p {
 	margin-top:20px;
 	margin-bottom:30px;
-	color:#333;
+	color:#000;
 }
 
 .main-feature .media i {
@@ -425,7 +425,7 @@ a:hover {
 .blog_category li a {
   background:#f5f5f5;
   border-radius: 4px;
-  color: #888;
+  color: #000;
   display: inline-block;
   padding: 5px 15px;
 }
@@ -604,7 +604,7 @@ ul.faq li > div h3 {
   font-size: 12px;
   margin-left: 3px;
   font-weight: 300;
-  color: #888;
+  color: #000;
 }
 
 ul.pagination > li > a {
@@ -656,7 +656,7 @@ ul.sidebar-gallery {
 
 .tag-cloud li a {
   background: #f5f5f5;
-  color: #888;
+  color: #000;
   border: 0;
   border-radius: 4px;
   padding: 8px 15px;
@@ -874,11 +874,11 @@ ul.sidebar-gallery {
 }
 
 .contact-info p {
-	color:#333;
+	color:#000;
 }
 
 .contact-info ul {
-	color:#333;
+	color:#000;
 	list-style:none;
 	margin-left:-40px;
 }
